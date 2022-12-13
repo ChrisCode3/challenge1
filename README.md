@@ -1,6 +1,10 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
+
+This weeks challenge is to make the website Horiseon more accessible.
+I shall do that by using SEMATIC HTML ELEMENTS , have our elements follow a LOGICAL STRUCTURE , use ALT TAGS, and TITLE ELEMENTS HAVE CONCISE DESCRIPTIVE TITLES.
+
  
 **Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
 
